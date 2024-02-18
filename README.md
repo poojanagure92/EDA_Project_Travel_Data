@@ -8,10 +8,10 @@ Once EDA is complete and insights are drawn, its feature can be used for supervi
 
 What are the steps in EDA?
 
-There are many steps for conducting Exploratory data analysis. below are the  few steps
-Description of data
-Handling missing data
-Handling outliers
+There are many steps for conducting Exploratory data analysis. below are the  few steps :
+Description of data, 
+Handling missing data, 
+Handling outliers, 
 Understanding relationships and new insights through plots
 
  🛠️ Builds with
